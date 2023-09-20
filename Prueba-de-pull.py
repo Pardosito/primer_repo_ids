@@ -5,3 +5,5 @@ if sueldo < 10000:
     print(sueldo)
 
 print("Cálculo de sueldo terminado")
+
+print("life is good alv alv")
